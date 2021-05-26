@@ -25,8 +25,19 @@
 -------------------------
 ### 2.이미지 프로젝트
 >[Teachable macine]{https://teachablemachine.withgoogle.com/}
+>>이미지 프로젝트 선택 : <https://teachablemachine.withgoogle.com/train/image>
+>>>라벨명 : 1:개 2:고양이 3:개구리 4:곰 5:너구리
+----------------------------
 
-
+### 3.학습 후 테스트
+-----------------------------
+### .4모델 내보내기
++ Tensorflow.js > Upload(shareable link) 생성 후 확인
++ link 주소 확인
+-------------------------------
+### 5.깃허브에 로그인
++사이트 주소를 입력 후 페이지에 들어간다
++페이지가 작동하는지 
 
 
 
