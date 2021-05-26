@@ -1,6 +1,6 @@
 ## Teachable Machine Image Project Git Hosting
 ## :star:활동보고서:star: 10202 강재형   https://purplemonkey0511.github.io/tm/
-주제: 자신과 가장 닮은 동물 찾기
+주제: 자신과 가장 닮은 동물 찾기 (5/26)
 -------------
 ~~~~
 주제선정이유: 사람 말고 동물의 얼굴상이 사람마다 다르고, 형태도 다르기 때문에 어떤 동물과 가장 닮았을지 궁금해서
