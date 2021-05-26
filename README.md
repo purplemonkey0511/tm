@@ -23,7 +23,8 @@
 |너구리|130|
 
 -------------------------
-### 2.이미지
+### 2.이미지 프로젝트
+>[Teachable macine]{https://teachablemachine.withgoogle.com/}
 
 
 
