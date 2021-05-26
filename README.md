@@ -1,9 +1,11 @@
 ## Teachable Machine Image Project Git Hosting
-활동보고서   -10202 강재형   https://purplemonkey0511.github.io/tm/
+:star:활동보고서:star:   -10202 강재형   https://purplemonkey0511.github.io/tm/
 =============
 5-20 경일고등학교 9,10교시 학습내용
 -------------
+
 #### 오늘은 코딩 없이 간단히 할 수 있는 ai를 만들어 보았습니다.
+
 과정
 -------------
 ### 1.이미지 업로드
