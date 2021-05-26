@@ -1,6 +1,5 @@
 ## Teachable Machine Image Project Git Hosting
-:star:활동보고서:star:   
-#### 10202 강재형   https://purplemonkey0511.github.io/tm/
+:star:활동보고서:star:   #### 10202 강재형   https://purplemonkey0511.github.io/tm/
 =============
 5-20 경일고등학교 9,10교시 학습내용
 -------------
