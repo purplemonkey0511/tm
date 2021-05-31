@@ -25,7 +25,7 @@
 -------------------------
 ### 2.이미지 프로젝트
 >[Teachable macine]{https://teachablemachine.withgoogle.com/}
->>이미지 프로젝트 선택 : <https://teachablemachine.withgoogle.com/train/image>
+>>이미지 프로젝트 선택 : <https://teachablemachine.withgoogle.com/models/k3aLUVc0-/>
 >>>라벨명 : 1:개 2:고양이 3:개구리 4:곰 5:너구리
 ----------------------------
 
